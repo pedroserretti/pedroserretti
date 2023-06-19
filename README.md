@@ -6,6 +6,10 @@
 
 ###
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedroserretti&bg_color=0d1117&color=6600ff&line=35065c&point=a257ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+###
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedroserretti&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Serretti github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedroserretti&layout=compact&hide_border=true&title_color=9400D3&text_color=ff91a4&bg_color=0d1117" />
