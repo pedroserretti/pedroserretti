@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=20&center=true&vCenter=true&width=1000&lines=Currently+i'm+learning+Flutter/Dart;I+am+open+to+learning+new+technologies+and+frameworks+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedroserretti&bg_color=0d1117&color=9400D3&line=4B0082&point=9400D3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedroserretti)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ###
 
