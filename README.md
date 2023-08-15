@@ -32,3 +32,12 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
+
+<p align="center">
+  <strong>Change the language</strong>
+</p>
+<p align="center">
+  <a href="https://github.com/pedroserretti/pedroserretti/blob/main/README-pt.md" alt="turn lenguage">
+    <img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/brasil.png" align-content="center" min-width="50px" max-width="50px" width="50px" align="center" alt="Turn Lenguage Portugues">
+  </a> 
+</p>
