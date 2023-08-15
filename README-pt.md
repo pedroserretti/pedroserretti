@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Serretti;I'm+19+years+old;I'm+from+Brazil;I'm+a+Computer+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Pedro+Serretti;Eu+tenho+19+anos;Eu+sou+do+Brasil;Sou+um+estudante+de+Ciências+da+Computação;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=20&center=true&vCenter=true&width=1000&lines=Currently+i'm+learning+Flutter/Dart;I+am+open+to+learning+new+technologies+and+frameworks+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=20&center=true&vCenter=true&width=1000&lines=Atualmente+estou+trabalhando+e+aprendendo+Flutter/Dart;Estou+sempre+aberto+para++aprender+novas+tecnologias+:%29)](https://git.io/typing-svg)
 
 ###
 
