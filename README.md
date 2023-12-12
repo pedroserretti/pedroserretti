@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Serretti;I'm+19+years+old;I'm+from+Brazil;I'm+a+Computer+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=20&center=true&vCenter=true&width=1000&lines=Currently+i'm+working+and+learning+Flutter/Dart;I'm+always+open+to+learning+new+technologies+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=20&center=true&vCenter=true&width=1000&lines=I'm+always+open+to+learning+new+technologies+:%29)](https://git.io/typing-svg)
 
 ###
 
