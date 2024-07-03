@@ -1,40 +1,55 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=30:DC8A78,50:DD7878,50:EA76CB,70:8839EF,90:D20F39,100:FE640B80:6C6F85,85:BCC0CC,90:EFF1F5,85:BCC0CC,100:DCE0E8&section=header&reversal=true"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Serretti;I'm+20+years+old;I'm+from+Brazil;I'm+a+Computer+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=20&center=true&vCenter=true&width=1000&lines=I'm+always+open+to+learning+new+technologies+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Serretti;)](https://git.io/typing-svg)
 
 ###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedroserretti&bg_color=0d1117&color=6600ff&line=35065c&point=a257ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🌍  I was born and based in Belo Horizonte, Brazil
+- 🧑‍🎓  I'm in 3thrd year pursuing Bachelor's Degree of Computer Science at Escola Superior Dom Helder Câmara (ESDHC) 
+- 💼  I'm currently working at Versa Software as a Jr Software Developer
+- 🧠  My principal skills are about Flutter, .NET, C#, Dart, Java, Firebase & MySQL 
+- 🎓  I'm learning about iOS and Android native code (Kotlin & Swift)
+- 🤝  I'm open to collaborating on interesting projects
+- ✉️  You can contact me at [pedroserretti2@gmail.com](mailto:pedroserretti2@gmail.com])
+- 💬  Ask me about anything!
+
+<p align="center">
+  <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
+</p>
 
 ###
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedroserretti&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Serretti github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedroserretti&layout=compact&hide_border=true&title_color=9400D3&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
-###
-
-<div align="center"> 
-<a href="https://instagram.com/serreetti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:pedroserretti2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-serretti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
- <br>
  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" width="42" alt="dart logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" width="42" alt="csharp logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-plain.svg" height="30" width="42" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" width="42" alt="dotnet logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="csharp logo"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
+###
+
+<p align="center">
+  <a href="https://instagram.com/serreetti" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/omatheusfc/"/></a>
+
+  <a href="https://www.linkedin.com/in/pedro-serretti/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-freitas-campos-235305137/" /></a>
+  
+
+<a href="https://www.twitch.tv/omatheusfc" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white&[pedroserretti2@gmail.com](mailto:pedroserretti2@gmail.com])"/></a>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=30:DC8A78,50:DD7878,50:EA76CB,70:8839EF,90:D20F39,100:FE640B80:6C6F85,85:BCC0CC,90:EFF1F5,85:BCC0CC,100:DCE0E8&section=footer&reversal=true"/>
+
+###
 
 <p align="center">
   <strong>Change the language</strong>
