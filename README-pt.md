@@ -55,7 +55,7 @@
   <strong>Mude a língua</strong>
 </p>
 <p align="center">
-  <a href="https://github.com/MatheusFC2/MatheusFC2/blob/master/README.md" alt="turn language">
+  <a href="https://github.com/pedroserretti/pedroserretti/blob/main/README.md" alt="turn language">
     <img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/usa.jpg" align-content="flex-end" min-width="50px" max-width="50px" width="50px" align="center" alt="Turn Language English">
   </a> 
 </p>
