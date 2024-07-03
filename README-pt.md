@@ -32,13 +32,13 @@
 
 <p align="center">
   <a href="https://instagram.com/serreetti" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/omatheusfc/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/serreetti"/></a>
 
-  <a href="https://www.linkedin.com/in/pedro-serretti/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-freitas-campos-235305137/" /></a>
+  <a href="https://www.linkedin.com/in/pedro-serretti/?locale=pt_BR" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-serretti/?locale=pt_BR" /></a>
   
 
-<a href="https://www.twitch.tv/omatheusfc" alt="Gmail">
+<a href="mailto:pedroserretti2@gmail.com]" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white&[pedroserretti2@gmail.com](mailto:pedroserretti2@gmail.com])"/></a>
 </p>
 
