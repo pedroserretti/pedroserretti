@@ -8,7 +8,6 @@
 - 🧑‍🎓  I'm in 3thrd year pursuing Bachelor's Degree of Computer Science at Escola Superior Dom Helder Câmara (ESDHC) 
 - 💼  I'm currently working at Versa Software as a Jr Software Developer
 - 🧠  My principal skills are about Flutter, .NET, C#, Dart, Java, Firebase & MySQL 
-- 🎓  I'm learning about iOS and Android native code (Kotlin & Swift)
 - 🤝  I'm open to collaborating on interesting projects
 - ✉️  You can contact me at [pedroserretti2@gmail.com](mailto:pedroserretti2@gmail.com])
 - 💬  Ask me about anything!
