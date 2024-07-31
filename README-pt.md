@@ -8,7 +8,6 @@
 - 🧑‍🎓  Estou cursando Ciências da Computação no 6º período na Escola Superior Dom Helder Câmara (ESDHC) 
 - 💼  Atualmente estou trabalhando na Versa Software como Desenvolvedor Fullstack Jr. (.NET e Flutter)
 - 🧠  Minhas principais habilidades são Flutter, .NET, C#, Dart, Java, Firebase & MySQL 
-- 🎓  Estou aprendendo sobre desenvolvimento nativo iOS e Android (Kotlin & Swift)
 - 🤝  Estou aberto em colaborar em projetos interessantes
 - ✉️  Você pode me contactar em [pedroserretti2@gmail.com](mailto:pedroserretti2@gmail.com])
 - 💬  Me pergunte sobre qualquer coisa!
